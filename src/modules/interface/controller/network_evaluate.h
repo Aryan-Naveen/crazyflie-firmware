@@ -4,9 +4,6 @@
 #include <math.h>
 #include "stabilizer_types.h"
 
-const float T2W = 1.9;
-const float RW = 0.01;
-const float MS = 0.2766;
 
 /*
  * since the network outputs thrust on each motor,

@@ -8,7 +8,9 @@
 #include<stdio.h>
 #include<math.h>
 
-
+const float T2W = 1.9;
+const float RW = 0.01;
+const float MS = 0.2766;
 
 
 float linear(float num) {
